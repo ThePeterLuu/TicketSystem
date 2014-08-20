@@ -1,6 +1,7 @@
 This is a complete project with a complete set of JUnit tests. Not very graphically pretty though.
 
 To run:
+
 1. You will need a MySQL database set up with a database named "ticketsystem" and the tables created using the SQL script in the dbscript folder.
 2. You also need to have Tomcat6 running. The username and password for the database can be found in src/db/DBHelperFactory.java
 
